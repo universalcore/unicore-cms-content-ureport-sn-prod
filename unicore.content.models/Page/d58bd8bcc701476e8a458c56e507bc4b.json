@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "98ca6b36029f47d7a3766a9db0155865"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "**U-Report** est un outil gratuit de communication par SMS ayant pour but d'engager nos communaut\u00e9s \u00e0 s'interroger, \u00e0 d\u00e9battre et \u00e0 se faire entendre sur les probl\u00e8mes qui nous concerne en tant que S\u00e9n\u00e9galais et en tant que jeunes.", 
   "source": null, 

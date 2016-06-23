@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "fre_FR", 
+  "title": "Comment obtenir les r\u00e9sultats ?", 
+  "primary_category": "75b70b8bf75741e293d4b13bcae76755", 
+  "created_at": "2016-06-23T18:05:29.698899+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-06-23T18:05:29.699139+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les r\u00e9sultats simplifi\u00e9s sont disponibles sur le [site web][1] et les r\u00e9seaux sociaux en direct et restent accessibles le temps de leur archivage.\r\n\r\nIls sont libres de r\u00e9utilisation.\r\n\r\nDes r\u00e9sultats plus d\u00e9taill\u00e9s peuvent \u00eatre obtenu aupr\u00e8s de la commission de coordination.\r\n\r\n\r\n  [1]: https://senegal.ureport.in/polls/", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-obtenir-les-resultats", 
+  "uuid": "8870c1a1ce1e42f7832da00e89b88a85"
+}

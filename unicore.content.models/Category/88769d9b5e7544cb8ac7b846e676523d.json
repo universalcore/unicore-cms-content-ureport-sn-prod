@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "88769d9b5e7544cb8ac7b846e676523d", 
+  "language": "fre_FR", 
+  "title": "Devenir U-Reporter", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "devenir-u-reporter", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

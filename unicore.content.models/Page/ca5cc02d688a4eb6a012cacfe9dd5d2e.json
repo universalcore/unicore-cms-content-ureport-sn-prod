@@ -6,19 +6,19 @@
   "primary_category": "88769d9b5e7544cb8ac7b846e676523d", 
   "created_at": "2016-06-23T18:14:00+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-06-23T18:40:00.404045+00:00", 
+  "modified_at": "2016-06-23T18:41:14.310082+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "e2f860adfce649faaae40b95f67936ae"
   ], 
   "id": null, 
-  "content": "A faire", 
+  "content": "A faire\r\n\r\n![Envoie SENEGAL au 21200][1]\r\n\r\n\r\n  [1]: http://dl-ureport.s3.amazonaws.com/cache/de/08/de08304ba9c18a416aee141c130a0f6c.jpg", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 

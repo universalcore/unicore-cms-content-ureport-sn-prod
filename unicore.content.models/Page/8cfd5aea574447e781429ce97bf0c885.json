@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "fre_FR", 
+  "title": "A la rencontre de Bayemal\u00e9", 
+  "primary_category": "d47a9a8bdcc84b9db18f5a2d0a665248", 
+  "created_at": "2016-06-23T17:45:37.722303+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-06-23T17:45:37.722538+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Bayemal\u00e9 Sao, S\u00e9dhiou\r\n\r\n\u00ab U-Report permet aux jeunes de s\u2019affranchir sur les questions taboues et de mieux connaitre la communaut\u00e9 autrement. \u00c7a me permet en tant que dispensateur d\u2019aller \u00e0 la rencontre des jeunes pour sensibiliser et pr\u00e9venir contre le VIH, les grossesses pr\u00e9coces, les MGF etc. A S\u00e9dhiou, on manque d\u2019information provenant des jeunes et avec U-Report on acc\u00e8de \u00e0 une information qui peut combattre l\u2019anarchie et se mobiliser pour agir avec les autorit\u00e9s.\u00bb\r\n\r\n\r\nToi aussi fais comme Bayemal\u00e9 Sao et rejoins U-Report S\u00e9n\u00e9gal en envoyant \u00ab SENEGAL \u00bb en message priv\u00e9 facebook \u00e0 U-Report S\u00e9n\u00e9gal !", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-rencontre-de-bayemale", 
+  "uuid": "8cfd5aea574447e781429ce97bf0c885"
+}

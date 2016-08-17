@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ca5cc02d688a4eb6a012cacfe9dd5d2e", 
+    "8cfd5aea574447e781429ce97bf0c885", 
+    "c829a1ee615a4e20be3fd40c1df4ddca"
+  ], 
   "id": null, 
   "content": "Des campagnes de recrutement sont programm\u00e9es pour recruter la masse critique des U-Reporters.\r\nCette campagne utilise une combinaison de diffusion de clip TV, diffusion de clip radio, de promotion sur Internet et de la mobilisation sociale.\r\n\r\n\u00c9galement, UNICEF en partenariat avec le Minist\u00e8re de la Femme et de la Famille, de l\u2019Education ou de la Justice envisage une mobilisation sociale conjointe \u00e0 d\u2019autres activit\u00e9s de sensibilisation sur les droits de l\u2019enfant.\r\n", 
   "source": null, 

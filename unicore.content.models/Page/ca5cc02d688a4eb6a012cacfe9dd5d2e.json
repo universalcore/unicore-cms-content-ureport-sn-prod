@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e2f860adfce649faaae40b95f67936ae"
+  ], 
   "id": null, 
   "content": "Tu peux devenir U-Reporter tr\u00e8s simplement \u00e0 partir de \u202aFacebook. Pour cela, voila les \u00e9tapes :\r\n\r\nVa sur la page U-Report Senegal sur Facebook, c\u2019est ici : [INSCRIPTION][1]\r\n \r\nEnvoie \"SENEGAL\" en message priv\u00e9 via Facebook Messenger \u00e0 U-Report Senegal\r\n\r\n![Envoie SENEGAL au 21200][2]\r\n\r\n**Tu vas recevoir 5 questions afin de compl\u00e9ter ton inscription.**\r\n\r\n![R\u00e9ponds aux questions][3]\r\n\r\n**Une fois que tu as r\u00e9pondu aux questions, tu re\u00e7ois un message pour confirmer que tu es un U-REPORTER !** \r\n\r\n![Felicitations][4]\r\n\r\n**Comme tous les autres U-Reporters, tu recevras chaque semaine des questions pour contribuer ensemble au changement du pays.**\r\n\r\n![Questions par semaine][5]\r\n\r\n\r\n  [1]: https://free.facebook.com/UreportSenegal/\r\n  [2]: http://dl-ureport.s3.amazonaws.com/cache/de/08/de08304ba9c18a416aee141c130a0f6c.jpg\r\n  [3]: http://dl-ureport.s3.amazonaws.com/dashblocks/join2.jpg\r\n  [4]: http://dl-ureport.s3.amazonaws.com/dashblocks/join3.jpg\r\n  [5]: http://dl-ureport.s3.amazonaws.com/dashblocks/join4.jpg", 
   "source": null, 
